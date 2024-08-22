@@ -1,0 +1,10 @@
+第幾個  第幾條路徑	X	Y	Z	RX	RY	RZ
+1	    1	        X	Y	Z	RX	RY	RZ
+1	    2	        X	Y	Z	RX	RY      RZ
+1	    3	        X	Y	Z	RX	RY	RZ
+1	    4	        X	Y	Z	RX	RY	RZ
+2	    1	        X	Y	Z	RX	RY	RZ
+2	    2	        X	Y	Z	RX	RY	RZ
+2	    3	        X	Y	Z	RX	RY	RZ
+2	    4	        X	Y	Z	RX	RY	RZ
+2	    5	        X	Y	Z	RX      RY      RZ
